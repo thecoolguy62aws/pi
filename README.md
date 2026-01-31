@@ -1,2 +1,2 @@
 # pi
-This is a GitHub repo with 25 million digits of pi.
+This is a GitHub repo with files full of digits of pi and the script used to make them.
